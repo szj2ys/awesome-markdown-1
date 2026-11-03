@@ -134,6 +134,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
+- [imread](https://imread.org/) - Web page to Markdown and plain text converter: give it a public article URL and it returns the body text without navigation or ads, including CJK encodings and SEC filings. Free, no account. ![Globe][globe]
 
 ### Editors
 
